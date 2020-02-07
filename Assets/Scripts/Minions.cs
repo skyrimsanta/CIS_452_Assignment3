@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (Minion)
+ * (Assignment 3)
+ * (Implament the IObserver and handles the normal minion movement)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

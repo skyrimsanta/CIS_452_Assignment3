@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (Purple Cube)
+ * (Assignment 3)
+ * (Handles the detection of the purple cube end state)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (ISubject)
+ * (Assignment 3)
+ * (Observer interface(Abstract Class))
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

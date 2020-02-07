@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (Game Manager)
+ * (Assignment 3)
+ * (Handles the staring and ending of the game)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

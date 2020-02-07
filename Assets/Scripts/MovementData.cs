@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (MovementData)
+ * (Assignment 3)
+ * (Implaments the ISubject, handles the observers, and handles player input)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
